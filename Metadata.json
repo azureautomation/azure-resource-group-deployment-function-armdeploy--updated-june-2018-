@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 12760,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-resource-group-deployment-function-armdeploy-(updated-june-2018)/master/Start-AzureRMDeploy.ps1",
+    "DownloadCount": 810,
+    "Id": "Azure-Resource-Group-6ee2c700",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 470,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-4-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Deploy ARM Templates in a custom way, to streamline deployments This is a customization of the deployment scripts available on the Quickstart or within Visual Studio Resource group Deployment Solution.ARMDeploy -DP D1       Only files that have been modified are re-uploaded",
+    "Title": "Azure Resource Group Deployment Function ARMDeploy (updated June 2018)",
+    "UpdatedDate": "2019-5-25T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-resource-group-deployment-function-armdeploy-(updated-june-2018)",
+    "UserTags": "ARM, Resource Group Deployments, New-AzureRmResourceGroupDeployment"
+}
